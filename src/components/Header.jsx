@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import {useAuth} from '../hooks/useAuth';
 import { useCart } from '../context/CartContext';
-//import './styles/components/header.css';
+import '../styles/components/header.css';
 
 const Header = () => {
   const { logout, isAuthenticated } = useAuth();

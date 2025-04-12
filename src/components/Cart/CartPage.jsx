@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useCart } from '../../context/CartContext';
 import CartItem from './CartItem';
-//import './styles/components/cart.css';
+import "../../styles/components/cart.css";
 
 export default function CartPage() {
   const { cart, clearCart, getTotalPrice } = useCart();

@@ -1,12 +1,79 @@
-# React + Vite
+# Fake Store React Shopping Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Screenshot](./screenshot.png) <!-- Add your screenshot later -->
 
-Currently, two official plugins are available:
+A modern e-commerce shopping website built with React.js using the Fake Store API. This project includes user authentication, product browsing, cart management, and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **User Authentication**
+  - Login with username/password
+  - JWT token storage
+  - Protected routes
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Product Browsing**
+  - View all products
+  - Filter by category
+  - Search functionality
+  - Product detail pages
+
+- **Shopping Cart**
+  - Add/remove products
+  - Adjust quantities
+  - Calculate total price
+  - Checkout process
+
+- **Responsive Design**
+  - Mobile-first approach
+  - Works on all screen sizes
+  - Clean, modern UI
+
+## Tech Stack
+
+- **Frontend**
+  - React.js (Vite)
+  - React Router v6
+  - Context API (State Management)
+  - CSS (No frameworks)
+
+- **API**
+  - [Fake Store API](https://fakestoreapi.com)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/fake-store-react.git
+   cd fake-store-react
+
+   ```
+
+2. Install Dependencies
+   ```bash
+   npm install
+
+   ```
+
+3. Start the development Server
+   ``bash
+   npm run dev
+
+   ```
+
+4. Open your browser
+   ```bash
+   http://localhost:5173
+
+   ```
+
+## Project Structure
+
+src/
+├── components/       # Reusable components
+├── context/          # Global state management
+├── hooks/            # Custom hooks
+├── pages/            # Page components
+├── styles/           # CSS files
+├── App.jsx           # Main application
+└── main.jsx          # Entry point
+
