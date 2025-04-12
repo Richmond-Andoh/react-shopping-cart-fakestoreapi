@@ -1,7 +1,7 @@
 # Fake Store React Shopping Website
 
 ![Project Screenshot](./src//assets/shop1.png) 
-![Project Screenshot](./src//assets/shop2.png) <!-- Add your screenshot later -->
+![Project Screenshot](./src//assets/shot2.png) <!-- Add your screenshot later -->
 
 A modern e-commerce shopping website built with React.js using the Fake Store API. This project includes user authentication, product browsing, cart management, and responsive design.
 
