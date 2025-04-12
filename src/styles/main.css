@@ -8,7 +8,7 @@
   body {
     color: #333;
     line-height: 1.6;
-    background-color: teal;
+    background-color: #f4f7f9;
   }
   
   .loading, .error {
