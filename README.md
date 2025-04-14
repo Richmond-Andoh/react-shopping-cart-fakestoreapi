@@ -44,6 +44,7 @@ A modern e-commerce shopping website built with React.js using the Fake Store AP
 
 1. Clone the repository:
    ```bash
+   
    git clone https://github.com/your-username/fake-store-react.git
    cd fake-store-react
 
@@ -51,18 +52,21 @@ A modern e-commerce shopping website built with React.js using the Fake Store AP
 
 2. Install Dependencies
    ```bash
+   
    npm install
 
    ```
 
 3. Start the development Server
    ``bash
+   
    npm run dev
 
    ```
 
-4. Open your browser
+5. Open your browser
    ```bash
+   
    http://localhost:5173
 
    ```
