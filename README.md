@@ -80,5 +80,4 @@ src/
 ├── pages/            # Page components
 ├── styles/           # CSS files
 ├── App.jsx           # Main application
-└── main.jsx          # Entry point
 
