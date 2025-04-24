@@ -79,5 +79,5 @@ src/
 ├── hooks/            # Custom hooks
 ├── pages/            # Page components
 ├── styles/           # CSS files
-├── App.jsx           # Main application
+
 
