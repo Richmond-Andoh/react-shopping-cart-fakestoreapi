@@ -78,6 +78,5 @@ src/
 ├── context/          # Global state management
 ├── hooks/            # Custom hooks
 ├── pages/            # Page components
-├── styles/           # CSS files
 
 
