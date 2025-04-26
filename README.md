@@ -77,6 +77,5 @@ src/
 ├── components/       # Reusable components
 ├── context/          # Global state management
 ├── hooks/            # Custom hooks
-├── pages/            # Page components
 
 
