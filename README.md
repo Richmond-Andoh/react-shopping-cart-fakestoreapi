@@ -75,6 +75,5 @@ A modern e-commerce shopping website built with React.js using the Fake Store AP
 
 src/
 ├── components/       # Reusable components
-├── context/          # Global state management
 
 
