@@ -58,6 +58,7 @@ A modern e-commerce shopping website built with React.js using the Fake Store AP
    ```
 
 3. Start the development Server
+   
    ``bash
    
    npm run dev
@@ -72,7 +73,5 @@ A modern e-commerce shopping website built with React.js using the Fake Store AP
    ```
 
 ## Project Structure
-
-src/
 
 
